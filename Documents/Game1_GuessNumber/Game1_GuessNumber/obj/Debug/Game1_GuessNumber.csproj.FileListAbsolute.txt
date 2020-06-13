@@ -1,0 +1,6 @@
+c:\users\shashikant.sinha\documents\visual studio 2015\Projects\Game1_GuessNumber\Game1_GuessNumber\bin\Debug\Game1_GuessNumber.exe.config
+c:\users\shashikant.sinha\documents\visual studio 2015\Projects\Game1_GuessNumber\Game1_GuessNumber\bin\Debug\Game1_GuessNumber.exe
+c:\users\shashikant.sinha\documents\visual studio 2015\Projects\Game1_GuessNumber\Game1_GuessNumber\bin\Debug\Game1_GuessNumber.pdb
+c:\users\shashikant.sinha\documents\visual studio 2015\Projects\Game1_GuessNumber\Game1_GuessNumber\obj\Debug\Game1_GuessNumber.csprojResolveAssemblyReference.cache
+c:\users\shashikant.sinha\documents\visual studio 2015\Projects\Game1_GuessNumber\Game1_GuessNumber\obj\Debug\Game1_GuessNumber.exe
+c:\users\shashikant.sinha\documents\visual studio 2015\Projects\Game1_GuessNumber\Game1_GuessNumber\obj\Debug\Game1_GuessNumber.pdb
